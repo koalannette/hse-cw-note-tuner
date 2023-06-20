@@ -10,5 +10,7 @@ To compile the program, you need to connect the following libraries:
 The compiled version of the program can be found in the demo.rar file
 
 ![image](https://github.com/koalannette/hse-cw-note-tuner/assets/113180456/8c2c34d8-0ca6-43de-9cde-1c94dd10c030)
+
+
 ![image](https://github.com/koalannette/hse-cw-note-tuner/assets/113180456/54afe0db-58fb-4242-8221-27a9dd156fed)
 
