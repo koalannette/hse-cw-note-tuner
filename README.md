@@ -1,5 +1,5 @@
 # hse-cw-note-tuner
-##Program for automatical music writing based on recording the user's voice
+## Program for automatical music writing based on recording the user's voice
 
 To run the program, you need to connect the following libraries:
 1. The Aubio tool designed for the extraction of annotations from audio signals. Available: https://aubio.org/
